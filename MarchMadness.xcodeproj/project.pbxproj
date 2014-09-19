@@ -7,8 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27314FC91902384400E7B17F /* Sim_Stats.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27314FC81902384400E7B17F /* Sim_Stats.cpp */; };
 		27918F941901E6ED00AC6036 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27918F931901E6ED00AC6036 /* main.cpp */; };
 		27918F961901E6ED00AC6036 /* MarchMadness.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 27918F951901E6ED00AC6036 /* MarchMadness.1 */; };
+		27918F9E1901FE0500AC6036 /* Team.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27918F9D1901FE0500AC6036 /* Team.cpp */; };
+		27918FA31902043F00AC6036 /* Utility.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27918FA21902043F00AC6036 /* Utility.cpp */; };
+		27918FA61902167C00AC6036 /* MM_Simulation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27918FA51902167C00AC6036 /* MM_Simulation.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,9 +29,17 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		27314FC71902383900E7B17F /* Sim_Stats.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sim_Stats.h; sourceTree = "<group>"; };
+		27314FC81902384400E7B17F /* Sim_Stats.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sim_Stats.cpp; sourceTree = "<group>"; };
 		27918F901901E6ED00AC6036 /* MarchMadness */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MarchMadness; sourceTree = BUILT_PRODUCTS_DIR; };
 		27918F931901E6ED00AC6036 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		27918F951901E6ED00AC6036 /* MarchMadness.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = MarchMadness.1; sourceTree = "<group>"; };
+		27918F9C1901FDF300AC6036 /* Team.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Team.h; sourceTree = "<group>"; };
+		27918F9D1901FE0500AC6036 /* Team.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Team.cpp; sourceTree = "<group>"; };
+		27918FA11902043600AC6036 /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utility.h; sourceTree = "<group>"; };
+		27918FA21902043F00AC6036 /* Utility.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Utility.cpp; sourceTree = "<group>"; };
+		27918FA51902167C00AC6036 /* MM_Simulation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MM_Simulation.cpp; sourceTree = "<group>"; };
+		2795F3E2190495D400067743 /* MM_Simulation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MM_Simulation.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +73,14 @@
 			isa = PBXGroup;
 			children = (
 				27918F931901E6ED00AC6036 /* main.cpp */,
+				2795F3E2190495D400067743 /* MM_Simulation.h */,
+				27918FA51902167C00AC6036 /* MM_Simulation.cpp */,
+				27314FC71902383900E7B17F /* Sim_Stats.h */,
+				27314FC81902384400E7B17F /* Sim_Stats.cpp */,
+				27918F9C1901FDF300AC6036 /* Team.h */,
+				27918F9D1901FE0500AC6036 /* Team.cpp */,
+				27918FA11902043600AC6036 /* Utility.h */,
+				27918FA21902043F00AC6036 /* Utility.cpp */,
 				27918F951901E6ED00AC6036 /* MarchMadness.1 */,
 			);
 			path = MarchMadness;
@@ -117,6 +137,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27918FA61902167C00AC6036 /* MM_Simulation.cpp in Sources */,
+				27918FA31902043F00AC6036 /* Utility.cpp in Sources */,
+				27918F9E1901FE0500AC6036 /* Team.cpp in Sources */,
+				27314FC91902384400E7B17F /* Sim_Stats.cpp in Sources */,
 				27918F941901E6ED00AC6036 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -197,6 +221,15 @@
 		27918F9A1901E6ED00AC6036 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				GCC_C_LANGUAGE_STANDARD = c89;
+				GCC_INPUT_FILETYPE = sourcecode.cpp.cpp;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_PEDANTIC = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -204,6 +237,15 @@
 		27918F9B1901E6ED00AC6036 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				GCC_C_LANGUAGE_STANDARD = c89;
+				GCC_INPUT_FILETYPE = sourcecode.cpp.cpp;
+				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_PEDANTIC = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -227,6 +269,7 @@
 				27918F9B1901E6ED00AC6036 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

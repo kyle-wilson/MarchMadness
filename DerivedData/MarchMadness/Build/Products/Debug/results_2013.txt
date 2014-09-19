@@ -1,0 +1,197 @@
+Default input files not detected. Default team file should be "teams.csv" and default
+matrix file should be "win_pct.csv".  Files should be in same folder as executable.
+
+Team file name?
+Win percentage matrix file name?
+1 Louisville Statistics:
+	      Champion:   7.98% (798/10000)
+	    Final Four:  23.54% (2354/10000)
+1 Gonzaga Statistics:
+	      Champion:   8.31% (831/10000)
+	    Final Four:  24.75% (2475/10000)
+1 Kansas Statistics:
+	      Champion:   7.78% (778/10000)
+	    Final Four:  24.64% (2464/10000)
+1 Indiana Statistics:
+	      Champion:   6.73% (673/10000)
+	    Final Four:  23.23% (2323/10000)
+2 Duke Statistics:
+	      Champion:   3.70% (370/10000)
+	    Final Four:  15.00% (1500/10000)
+2 Ohio State Statistics:
+	      Champion:   3.07% (307/10000)
+	    Final Four:  13.40% (1340/10000)
+2 Georgetown Statistics:
+	      Champion:   4.37% (437/10000)
+	    Final Four:  15.77% (1577/10000)
+2 Miami Statistics:
+	      Champion:   4.89% (489/10000)
+	    Final Four:  15.96% (1596/10000)
+3 Michigan St Statistics:
+	      Champion:   3.09% (309/10000)
+	    Final Four:  11.29% (1129/10000)
+3 New Mexico Statistics:
+	      Champion:   4.55% (455/10000)
+	    Final Four:  14.74% (1474/10000)
+3 Marquette Statistics:
+	      Champion:   3.36% (336/10000)
+	    Final Four:  12.02% (1202/10000)
+3 Florida Statistics:
+	      Champion:   4.04% (404/10000)
+	    Final Four:  13.86% (1386/10000)
+4 St Louis Statistics:
+	      Champion:   2.66% (266/10000)
+	    Final Four:  10.23% (1023/10000)
+4 Kansas State Statistics:
+	      Champion:   2.34% (234/10000)
+	    Final Four:  10.11% (1011/10000)
+4 Michigan Statistics:
+	      Champion:   2.56% (256/10000)
+	    Final Four:  11.33% (1133/10000)
+4 Syracuse Statistics:
+	      Champion:   2.91% (291/10000)
+	    Final Four:  10.86% (1086/10000)
+5 Oklohoma St Statistics:
+	      Champion:   1.78% (178/10000)
+	    Final Four:   7.16% (716/10000)
+5 Wisconsin Statistics:
+	      Champion:   1.44% (144/10000)
+	    Final Four:   6.30% (630/10000)
+5 VCU Statistics:
+	      Champion:   1.84% (184/10000)
+	    Final Four:   7.20% (720/10000)
+5 UNLV Statistics:
+	      Champion:   1.74% (174/10000)
+	    Final Four:   7.71% (771/10000)
+6 Memphis Statistics:
+	      Champion:   2.31% (231/10000)
+	    Final Four:   9.19% (919/10000)
+6 Arizona Statistics:
+	      Champion:   1.53% (153/10000)
+	    Final Four:   7.55% (755/10000)
+6 UCLA Statistics:
+	      Champion:   1.57% (157/10000)
+	    Final Four:   7.72% (772/10000)
+6 Butler Statistics:
+	      Champion:   1.46% (146/10000)
+	    Final Four:   6.82% (682/10000)
+7 Creighton Statistics:
+	      Champion:   0.74% (74/10000)
+	    Final Four:   4.84% (484/10000)
+7 Notre Dame Statistics:
+	      Champion:   0.46% (46/10000)
+	    Final Four:   4.17% (417/10000)
+7 San Diego St Statistics:
+	      Champion:   0.57% (57/10000)
+	    Final Four:   3.70% (370/10000)
+7 Illinois Statistics:
+	      Champion:   0.42% (42/10000)
+	    Final Four:   3.47% (347/10000)
+8 Colorado St. Statistics:
+	      Champion:   1.28% (128/10000)
+	    Final Four:   5.84% (584/10000)
+8 Pittsburgh Statistics:
+	      Champion:   1.45% (145/10000)
+	    Final Four:   5.95% (595/10000)
+8 N. Carolina Statistics:
+	      Champion:   0.96% (96/10000)
+	    Final Four:   4.47% (447/10000)
+8 N.C. State Statistics:
+	      Champion:   1.29% (129/10000)
+	    Final Four:   6.04% (604/10000)
+9 Missouri Statistics:
+	      Champion:   0.62% (62/10000)
+	    Final Four:   3.81% (381/10000)
+9 Wichita St. Statistics:
+	      Champion:   0.71% (71/10000)
+	    Final Four:   4.22% (422/10000)
+9 Temple Statistics:
+	      Champion:   0.80% (80/10000)
+	    Final Four:   4.27% (427/10000)
+9 Villanova Statistics:
+	      Champion:   0.47% (47/10000)
+	    Final Four:   3.07% (307/10000)
+10 Cincinnati Statistics:
+	      Champion:   0.22% (22/10000)
+	    Final Four:   2.33% (233/10000)
+10 Iowa St. Statistics:
+	      Champion:   0.28% (28/10000)
+	    Final Four:   2.37% (237/10000)
+10 Colorado Statistics:
+	      Champion:   0.29% (29/10000)
+	    Final Four:   2.85% (285/10000)
+10 Oklahoma Statistics:
+	      Champion:   0.20% (20/10000)
+	    Final Four:   2.29% (229/10000)
+11 Saint Mary's Statistics:
+	      Champion:   0.42% (42/10000)
+	    Final Four:   2.62% (262/10000)
+11 Belmont Statistics:
+	      Champion:   0.45% (45/10000)
+	    Final Four:   2.91% (291/10000)
+11 Minnesota Statistics:
+	      Champion:   0.42% (42/10000)
+	    Final Four:   3.07% (307/10000)
+11 Bucknell Statistics:
+	      Champion:   0.57% (57/10000)
+	    Final Four:   3.78% (378/10000)
+12 Oregon Statistics:
+	      Champion:   0.35% (35/10000)
+	    Final Four:   2.88% (288/10000)
+12 Ole Miss Statistics:
+	      Champion:   0.34% (34/10000)
+	    Final Four:   2.60% (260/10000)
+12 Akron Statistics:
+	      Champion:   0.29% (29/10000)
+	    Final Four:   2.45% (245/10000)
+12 California Statistics:
+	      Champion:   0.20% (20/10000)
+	    Final Four:   2.24% (224/10000)
+13 La Salle Statistics:
+	      Champion:   0.03% (3/10000)
+	    Final Four:   0.57% (57/10000)
+13 New Mexico St. Statistics:
+	      Champion:   0.04% (4/10000)
+	    Final Four:   0.68% (68/10000)
+13 S. Dakota St. Statistics:
+	      Champion:   0.04% (4/10000)
+	    Final Four:   0.31% (31/10000)
+13 Montana Statistics:
+	      Champion:   0.02% (2/10000)
+	    Final Four:   0.26% (26/10000)
+14 Valparaiso Statistics:
+	      Champion:   0.01% (1/10000)
+	    Final Four:   0.21% (21/10000)
+14 Harvard Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.13% (13/10000)
+14 Nwestern st Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.14% (14/10000)
+14 Davidson Statistics:
+	      Champion:   0.01% (1/10000)
+	    Final Four:   0.24% (24/10000)
+15 Albany Statistics:
+	      Champion:   0.03% (3/10000)
+	    Final Four:   0.47% (47/10000)
+15 Iona Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.07% (7/10000)
+15 FGCU Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.06% (6/10000)
+15 Pacific Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.15% (15/10000)
+16 SouthernU Statistics:
+	      Champion:   0.01% (1/10000)
+	    Final Four:   0.02% (2/10000)
+16 Western Ky. Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.05% (5/10000)
+16 North Carolina A&T Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.00% (0/10000)
+16 James Madison Statistics:
+	      Champion:   0.00% (0/10000)
+	    Final Four:   0.02% (2/10000)
